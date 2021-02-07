@@ -171,7 +171,7 @@
 		{
          "Operation": "Append",
          "Target": ["Entries", "Set-Up_additionalCharacters"],
-         "Value": "Alissa 25 65 left",
+         "Value": "Alissa 25 66 left",
          "Delimiter": "/"
 		},
 		{

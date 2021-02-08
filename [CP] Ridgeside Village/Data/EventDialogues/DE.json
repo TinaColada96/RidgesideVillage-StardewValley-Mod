@@ -1,0 +1,187 @@
+{
+"Changes": [
+        
+//------------------
+//    Dialogues     
+//------------------
+        {
+                //Event dialogue Aguar
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Aguar",
+                "Entries": {                        
+                        "aguar1_1": "Hmmmm..$a#$b#Ja, das war Magie, @.$a#$b#Und niemand sollte das sehen.",
+                        "aguar1_2": "Wie kannst du es wagen! %fork$a",                        
+                }
+        },
+        
+        {
+                //Event dialogue Alissa
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Alissa",
+                "Entries": {                        
+                        "alissa1_1": "Das ist irgendwie seltsam...#$b# Vielleicht solltest du nicht neugierig auf das Privateigentum anderer sein?#$b# Ich ziehe dich nur auf! Aber ich werde heute Abend daran denken, den Schuppen abzuschließen.$a”",
+                        "alissa1_2": "O-oh, was?$7#$b#Hey, mach nicht solche Witze!$l",
+                        "alissa1_3": "Aha! Ich hätte es wissen müssen!$a#$b#Du Dummkopf! Du wirst hier aber nichts finden!$a#$b#Denn ich habe hier nichts sortiert!$h#$b#Haha! Bravo, @!$h",
+                }
+        },
+        
+        {
+                //Event dialogue Bert
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Bert",
+                "Entries": {                        
+                        "bert1_1": "Vielen Dank, @! Du bist Super!$h",
+                        "bert1_2": "Oh, das ist zu schade. %fork$s",                
+                        "bert2_1": "Hmm. Ja, ich denke, das wäre besser.",
+                        "bert2_2": "Aber ja! Sie nervt mich schon eine ganze Weile damit, aus der Stadt zu fahren!.",
+                }
+        },
+        
+        {
+                //Event dialogue Ezekiel
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ezekiel",
+                "Entries": {                        
+                        "ezekiel1_1": "Häh?$a",
+                        "ezekiel1_2": "Häh?%fork$a",                
+                }
+        },
+        
+        {
+                //Event dialogue Freddie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Freddie",
+                "Entries": {                        
+                        "freddie1_1": "Oh! Wirklich?$h",
+                        "freddie1_2": "Hmmm..%fork$s",                
+                }
+        },
+        
+        {
+                //Event dialogue Jio
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Jio",
+                "Entries": {                        
+                        "jio1_1": "Ha.$h",
+                        "jio1_2": "Ha! Wirklich, jetzt?%fork$a",                
+                }
+        },
+        
+        {
+                //Event dialogue Keahi
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Keahi",
+                "Entries": {                        
+                        "keahi1_1": "Hmmm... Ja. Ich sollte wirklich$s",
+                        "keahi1_2": "Oh?%fork$s",                
+                }
+        },
+        
+        {
+                //Event dialogue Kiwi
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Kiwi",
+                "Entries": {                        
+                        "kiwi1_1": "Du gehst besser, Mensch.%fork$a",
+                        "kiwi1_2": "Hm. Mensch bleibt also?",                
+                }
+        },
+        
+        {
+                //Event dialogue Lola
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Lola",
+                "Entries": {                        
+                        "lola1_1": "Oh! Oh wie aufregend!$h",
+                        "lola1_2": "Oh? Ja, ganz vernünftig, um Gefahren zu vermeiden.%fork$s",                
+                }
+        },
+        
+        {
+                //Event dialogue Pika
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Pika",
+                "Entries": {                        
+                        "pika1_1": "Hm? Habe ich das richtig gehört?$h",
+                        "pika1_2": "Oh? Okay, ich weiß, du bist auch beschäftigt @.%fork",                
+                }
+        },
+        
+        {
+                //Event dialogue Trinnie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Trinnie",
+                "Entries": {                        
+                        "trinnie1_1": "Wirklich @? Wenn das von einem Farmer kommt, bedeutet das eine Menge!$h",
+                        "trinnie1_2": "Hmpf! Wenn du denkst, ich bin komisch, dann hast du keine Leidenschaft für die Pflege von Pflanzen! Schande über dich, Bauer!%fork$a",                
+                }
+        },
+        
+        {
+                //Event dialogue Flor
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Flor",
+                "Entries": {                        
+                        "flor1_1": "Huh? ... E-echt?$s#$b# Das ist gut zu wissen... I-ich bin froh. ",
+                        "flor1_2": "I-I-Ich weiß! Das werde ich definitiv! Absolut!$s#$b# Das wird nie wieder vorkommen!$s#$b# E-es kann nicht, sonst würde ich implodieren... $s",
+                        "flor1_3": "W-was? Ich-Ich... äh... $s#$b#...$s#$b#...$l#$b#... %fork^W-was? I-ich... äh... $s#$b#...$l#$b#... I-ist das als K-kompliment gemeint?$s",        
+                }
+        },
+        
+        {
+                //Event dialogue Maddie
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Maddie",
+                "Entries": {                        
+                        "maddie1_1": "%Ich gehe lieber%fork",
+                        "maddie1_2": "Falsch? Nichts ist falsch.$a#$b# Wenn überhaupt, dann bist du es der hier falsch ist.$a",
+                        "maddie1_3": "Huh? $a#$b#Miserabel? Bin ich nicht... $7#$b#Was macht das schon? Ich muss nicht glücklich aussehen, um gut in meinem Job zu sein.",
+                        "maddie2_1": "Hmph.$7#$b#Hör auf, Dinge zu sagen.$7",
+                        "maddie2_2": "Ach? Wirklich jetzt?#$b#Und warum bist du dann hier?",
+                        "maddie2_3": "Figuren.$7%fork",
+                        "maddie3_1": "Wa... was?$8#$b#Was willst du damit sagen?$a#$b#Ha-ha-ha. Sehr lustig jetzt.$7",
+                        "maddie3_2": "Ähm. Okay...$7%fork",
+                        "maddie4_1": "@... Ich denke du solltest gehen ho--$10",
+                        "maddie4_2": "Ich glaube, ich brauche für eine Weile Abstand von dir @...$10",
+                }
+        },
+        
+        {
+                //Event dialogue Ysabelle
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ysabelle",
+                "Entries": {                        
+                        "ysabelle1_1": "Ja...$9#$b#Aber es tut trotzdem weh, wenn man sich daran erinnert..$9#$b#Aber du hast recht @..$8#$b#Ich muss weitermachen, ja...$11",
+                        "ysabelle1_2": "Hmpf, wie unhöflich von dir @.$10#$b#Du scheinst dich nur für deine eigene Unterhaltung zu interessieren, hm?$10#$b#Wie unreif.$10%fork",
+                        "ysabelle1_3": "Heh, du hast wirklich die Zeit gefunden, einen Vorschuss zu versuchen, was?$9#$b#Ich schätze den Gedanken, @, aber wirklich, du bist scheiße im Timing.$9#$b#Teehee, aber ich muss zugeben, es hat mich ein bisschen aufgeheitert.$8#$b#Danke dafür.$11",        
+                }
+        },
+        
+        {
+                //Event dialogue Ian
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Ian",
+                "Entries": {
+                        "ian1_1": "Hm? Willst du helfen?#$b#Mir geht's gut, @. Und ich will dich nicht belästigen. Ich weiß, du bist auch beschäftigt!$h#$b# Aber danke! Das ist wirklich nett von dir.$h",
+                        "ian1_2": "Danke! Man sieht sich!%fork",
+                        "ian2_1": "Das hoffe ich auch, @..$s#$b#Ich kann einfach nicht anders, als so besorgt darüber zu sein, weißt du?$s#$b#Ich möchte nur wissen..$s",
+                        "ian2_2": "Ich glaube, ich werde nicht gut schlafen können, wenn ich nicht weiß, wie es ihnen im Moment geht..$s#$b#Aber @, ich schätze die Sorge wirklich..$s#$b#Danke..$h",
+                        "ian2_3": "Du würdest wirklich bei mir bleiben, wenn ich so trübselig bin? Danke, @. Du bist ein wahrer Freund...$h#$b#Ich kann einfach nicht anders, als mich so zu fürchten...$s",
+                }
+        },
+        
+        {
+                //Event dialogue Philip
+                "Action": "EditData",
+                "Target": "Characters/Dialogue/Philip",
+                "Entries": {
+                        "philip1_1": "Magst du es?!$h#$b#Ich bin froh, dass es dir gefällt! Es ist ein wenig kindisch, also war ich besorgt, dass du es seltsam finden würdest.$6#$b#Ich bin froh, dass ich deine Zeit nicht verschwendet habe.$h",
+                        "philip1_2": "Ja, es ist ein bisschen kindisch, das gebe ich zu.$6#$b#Die primäre Zielgruppe sind wirklich Kinder, es ist nicht wirklich eine ernste und dunkle Art von Comic.$6#$b#Aber ich hoffe, es hat dir trotzdem ein bisschen gefallen.$h",
+                        "philip1_3": "Ach wirklich? Du hasst es so sehr?$s#$b#Es tut mir leid, dass ich deine Zeit verschwendet habe...$s%fork",
+                },
+        },
+
+
+        
+]
+}

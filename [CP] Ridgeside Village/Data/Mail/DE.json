@@ -1,0 +1,24 @@
+{
+"Changes": [
+	
+	{
+		//Mail Letters
+		"LogName": "Mail Letters",
+		"Action": "EditData",
+		"Target": "Data/mail",
+		"Entries": {
+			"AlissaLetter": "Hallo @!,^^Ich wollte dir nur sagen, dass ich das Lied, über das wir letztes Mal gesprochen haben, vielleicht fertiggestellt habe! Du weißt schon, als ich vor dir weglief... Wie auch immer, ich wollte es dich wissen lassen und ich würde mich freuen, wenn du es dir anhörst! Besuch mich bei mir zu Hause, wann immer du Zeit hast^^- Alissa",
+			"AlissaPerform": "Hallo @!,^^Es wird später ein kleines Beisammensein im Dorf geben. Lenny hofft, dass alle kommen. Sie hat Einladungen für alle gemacht. Ich habe sie persönlich gefragt, ob es okay ist, wenn ich dein Einladungsschreiben mache. Aus keinem besonderen Grund! Wie auch immer, ich hoffe, wir sehen uns dort!^^- Alissa",
+			"FlorLetter": "Guten Tag @,^Ich habe alle notwendigen Materialien und Formulare für die Untersuchung von Interaktionen zwischen Gleichaltrigen mit gegenteiligen oder zumindest unterschiedlichen Interessen zusammengestellt und vorbereitet. Ich erwarte Sie in meinem Zimmer im Hotel.^^Mit freundlichen Grüßen, Florabelle Hibisca",
+			"MaddieLetter": "@,^^10:00 bis 22:30 Uhr. Finden Sie mich.^^- M",
+			"MaddieDate": "@,^^Triff mich bei mir zu Hause. 16:00 bis 17:00 Uhr. Komm nicht zu spät.^^- Maddie",
+			"JericLetter": "Hey Schätzchen,^^Treffen wir uns später auf meiner Farm, so zwischen 17 und 18 Uhr.^^- Jeric",
+			"GH1Letter": "Guten Tag @,^^Wir möchten Sie einladen, die Restaurierung eines der prächtigen Gewächshäuser von Ridgeside zu feiern! Die Restaurierung hätte ohne Ihre Hilfe nicht stattgefunden, deshalb würden wir uns sehr freuen, wenn Sie kommen könnten.^^- Lenny^Ridgeside Village Bosslady",
+			"EmberNightInvitation": "Guten Tag @,^^Wir möchten Sie einladen, das Ende eines ziemlich ereignisreichen Jahres mit dem "Glut der Vorsätze"-Fest zu feiern. Was sind Ihre Vorsätze für das neue Jahr? Essen? Kraft? Liebe? 22:00 - 00:00 Uhr. Nördlich von Ridgeside Village.^^- Lenny^Ridgeside Dorfchef Honcho",
+            "GatheringInvitation": "Guten Tag @,^^Wir möchten Sie zu Ridgesides traditionellem 'Ridgeside-Versammlung'-Festival einladen. Es gibt viele Geschäfte, Veranstaltungen und ESSEN. Jede Menge ESSEN! Seien Sie dabei oder auch nicht. Von 9 bis 18 Uhr in Ridgeside Village. Ich hoffe, wir sehen uns dort. Lenny, die ehemalige Miss Ridgeside.",
+		},
+	},
+
+	
+]
+}
